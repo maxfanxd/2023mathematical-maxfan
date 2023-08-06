@@ -7,8 +7,16 @@
 ## 目录
 
 - Intelligence Algorithms——智能算法：包括蚁群、退火、遗传、粒子群
+
 - Clustering——聚类：包括K-Means，DBSCAN，AP，模糊聚类
+
 - Factor&Weights——权重分析：包括AHP、熵权法、主成分分析、因子分析
+
 - System Analysis——系统分析：包括相关性分析等
+
 - Data Preprocessing——数据预处理：包括归一化、标准化等等
+
+- Regression & Classifier——目前的构成是之前学机器学习留下来的部分代码：包括KNN、线性支持向量机分类器、最小二乘、Lasso、岭回归，之后会补全回归和分类算法
+
+  
 
